@@ -1,6 +1,6 @@
 Bonjour,
 
-vous trouverez ici 4 fichiers
+vous trouverez ici dossiers threeStackClass avec dedans :
 2 fichiers .c et un fichier .h
 le fichier .h contient les structures pour faire la classe
 le fichier threeStack.c contient l'implémentation de la classe
