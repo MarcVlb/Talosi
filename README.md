@@ -2,7 +2,7 @@ Bonjour,
 
 vous trouverez ici deux dossiers doc et threeStackClass ainsi que mon cv.
 
-Dans le dossier doc comme son nom la l'indique vous trouverez la documentation de la classe.
+Dans le dossier doc comme son nom l'indique vous trouverez la documentation de la classe.
 
 dans le dossier threeStackClass vous trouverez :
   un Makefile vous pourrez lancer le programme (pour les test) avec un simple make et si vous souhaitez supprimer les fichier "parasite" la commande
