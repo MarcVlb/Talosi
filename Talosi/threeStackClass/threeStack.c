@@ -6,6 +6,7 @@
 */
 
 #include "threeStack.h"
+//TAILLE d'une pile vous êtes libre de le changer
 #define TAILLE 1
 
 /**
