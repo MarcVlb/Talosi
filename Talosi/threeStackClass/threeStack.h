@@ -25,9 +25,6 @@ struct threeStack
     void (*push)(struct threeStack *this,int pile,String value);
     String (*pop)(struct threeStack *this,int pile);
     void (*freeStack)(struct threeStack *this);
-    int (*getLast3)(struct threeStack *this);
-    int (*getLast2)(struct threeStack *this);
-    int (*getLast1)(struct threeStack *this);
 };
 
 extern const struct threeStackClass
