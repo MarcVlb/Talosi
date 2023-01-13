@@ -218,31 +218,6 @@ static void freeStack(struct threeStack *this)
     free(this->tab);
 }
 
-
-
-
-static int getLast3(struct threeStack *this)
-{
-    return this->P3LastElement;
-}
-
-static int getLast2(struct threeStack *this)
-{
-    return this->P2LastElement;
-}
-
-static int getLast1(struct threeStack *this)
-{
-    return this->P1LastElement;
-}
-
-
-
-
-
-
-
-
 /**
 * @brief constructeur de la classe threeStack
 * @return un objet threeStack
@@ -263,9 +238,6 @@ static struct threeStack new()
         .push=&push,
         .pop=&pop,
         .freeStack=&freeStack,
-        .getLast1=&getLast1,
-        .getLast2=&getLast2,
-        .getLast3=&getLast3
     };
 }
 const struct threeStackClass threeStack={.new=&new};
