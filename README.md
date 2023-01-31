@@ -1,15 +1,12 @@
 Bonjour,
 
-vous trouverez ici deux dossiers doc et threeStackClass ainsi que mon cv.
-
-Dans le dossier doc comme son nom l'indique vous trouverez la documentation de la classe.
+vous trouverez ici un dossier threeStackClass ainsi que mon cv.
 
 dans le dossier threeStackClass vous trouverez :
-  un Makefile vous pourrez lancer le programme (pour les test) avec un simple make et si vous souhaitez supprimer les fichier "parasite" la commande
-  make clear supprimera tout les .o et la commande make rmproper supprimera les .o et le fichier exec.
-  le fichier main.c servant à faire des tests sur la classe.
-  le fichier threeStack.h la définition de la classe.
-  le fichier threeStack.c avec l'implémentation des méthodes de la classe.
+    un dossier doc, où comme son nom l'indique vous trouverez la doc.
+    dans le dossier src vous trouverez le code des classes  Main et ThreeStack (le mini-projet ayant était fait en java)
+    et dans le dernier dossier bin vous trouverez Main.class et ThreeStack.class
+    Pour effectuer les tests sur la classe ThreeStack il faut lancer Main.class à l'aide de java Main (si vous êtes dans le bin)
   
  En espérant avoir vite de vos nouvelles, Bonne journée.
   Marc Valembois.
